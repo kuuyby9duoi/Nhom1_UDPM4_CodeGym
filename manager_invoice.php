@@ -118,7 +118,7 @@ ob_start(); $sl=$_GET['sldong'];  $page=$_GET['page']; ?>
 					<td><?php echo $row_option['note']; ?></td>
 					<td><?php echo $row_option['status']; ?></td>
 					<td>
-						<a name="edit" style="font-size: 10px;" class="btn btn-primary btn-icon-split" role="button" href="editproduct.php?id=<?php echo $row_option['id_invoice']; ?>" title="Sửa thông tin của invoice số: <?php echo $row_option['id_invoice']; ?>!"><span class="text-white-50 icon"><i class="fas fa-flag"></i></span><span class="text-white text">Sửa</span></a>
+						<a name="edit" style="font-size: 10px;" class="btn btn-primary btn-icon-split" role="button" href="#" title="Sửa thông tin của invoice số: <?php echo $row_option['id_invoice']; ?>!"><span class="text-white-50 icon"><i class="fas fa-flag"></i></span><span class="text-white text">Sửa</span></a>
 					
 						<a style="font-size: 10px;" class="btn btn-danger btn-icon-split" name="chmod" role="button" onclick="return confirm('Bạn có chắc xóa vĩnh viễn hóa đơn này?')" href="acc.php?id=<?php echo $row_option['id_invoice']; ?>&acc=delete_invoice" title="xóa dell lấy lại đc luôn!"><span class="text-white-50 icon"><i class="fas fa-trash"></i></span><span class="text-white text">Xóa</span></a>
 					</td>
