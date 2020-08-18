@@ -1,0 +1,80 @@
+[09-Aug-2020 19:00:50 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/trinhsyd/hactech.trinhsydu.com/header.php on line 2
+[10-Aug-2020 02:37:34 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/trinhsyd/hactech.trinhsydu.com/header.php on line 2
+[10-Aug-2020 02:41:19 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/trinhsyd/hactech.trinhsydu.com/header.php on line 2
+[10-Aug-2020 18:46:32 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/trinhsyd/hactech.trinhsydu.com/header.php on line 76
+[10-Aug-2020 18:46:40 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE), expecting ',' or ';' in /home/trinhsyd/hactech.trinhsydu.com/header.php on line 76
+[12-Aug-2020 03:00:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 03:00:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 03:00:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 03:00:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 03:52:12 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 03:58:15 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 06:14:33 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index.php on line 66
+[12-Aug-2020 06:19:40 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:35:03 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:35:04 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:38:35 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:38:51 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:52:10 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:54:23 UTC] PHP Warning:  Division by zero in /home/trinhsyd/hactech.trinhsydu.com/shop/index_2.php on line 102
+[12-Aug-2020 07:59:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 07:59:57 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:02:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:34:37 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:34:46 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:34:48 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:34:51 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:44:44 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:49:13 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 08:50:20 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:06:08 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:01 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:02 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:04 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:05 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:06 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:09 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:10 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:17 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:18 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:19 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:21 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:22 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:24 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:25 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:26 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:27 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:28 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:29 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:30 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:34 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:08:36 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[12-Aug-2020 09:22:56 UTC] PHP Warning:  mysqli_connect(): (HY000/2002): Connection refused in /home/trinhsyd/hactech.trinhsydu.com/connect.php on line 6
+[14-Aug-2020 19:51:08 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[14-Aug-2020 22:28:03 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[14-Aug-2020 22:28:37 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[15-Aug-2020 00:37:26 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[15-Aug-2020 00:37:57 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[15-Aug-2020 00:59:11 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[15-Aug-2020 01:01:01 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 102
+[15-Aug-2020 01:02:38 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 01:02:44 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 01:03:13 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 01:03:13 Asia/Ho_Chi_Minh] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:13 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:18 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 01:03:18 Asia/Ho_Chi_Minh] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:18 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:30 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 01:03:30 Asia/Ho_Chi_Minh] PHP Warning:  include(footer.php): failed to open stream: No such file or directory in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:30 Asia/Ho_Chi_Minh] PHP Warning:  include(): Failed opening 'footer.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 126
+[15-Aug-2020 01:03:53 Asia/Ho_Chi_Minh] PHP Warning:  Division by zero in /home/upfileco/hactech.trinhsydu.com/shop/index_2.php on line 92
+[15-Aug-2020 02:50:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82
+[15-Aug-2020 02:50:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82
+[15-Aug-2020 02:50:10 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82
+[15-Aug-2020 18:28:33 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82
+[15-Aug-2020 18:28:41 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82
+[15-Aug-2020 18:28:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: max_mua in /home/upfileco/hactech.trinhsydu.com/shop/cart.php on line 82

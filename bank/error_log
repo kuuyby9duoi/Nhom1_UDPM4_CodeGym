@@ -1,0 +1,2 @@
+[10-Aug-2020 02:49:54 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trinhsyd/hactech.trinhsydu.com/bank/connect.php on line 6
+[10-Aug-2020 02:50:06 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/trinhsyd/hactech.trinhsydu.com/bank/connect.php on line 6
